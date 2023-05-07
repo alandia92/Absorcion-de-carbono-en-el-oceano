@@ -45,7 +45,7 @@ Dentro del dataset se encuentran más mediciones que el tco2. Se podrían hacer 
 
 Por lo tanto, los puntos de muestreo son una pieza clave en la investigación y el estudio en los océanos.
 
-### SElección de columnas
+### Selección de columnas
 En este modelo se hans eleccionado las anteriores columnas y se han añadido las de 'longitude' y 'latitude', que van a ser las columnas a predecir.
 
 ### Modelo ML
