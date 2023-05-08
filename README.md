@@ -32,7 +32,7 @@ Se realizan varias pruebas con distintos modelos de machine learning
 > GradientBoostingRegressor
 
 El modelo con mejores resultados es RandomForestRegressor
-MSE 197.72
+MSE 197.72\
 R2 0.98
 
 ## Predicción de puntos de muestreo
