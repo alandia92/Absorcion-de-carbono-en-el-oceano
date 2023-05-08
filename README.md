@@ -31,7 +31,7 @@ Se realizan varias pruebas con distintos modelos de machine learning
 
 > GradientBoostingRegressor
 
-El modelo con mejores resultados es RandomForestRegressor
+El modelo con mejores resultados es RandomForestRegressor\
 MSE 197.72\
 R2 0.98
 
@@ -49,12 +49,12 @@ Por lo tanto, los puntos de muestreo son una pieza clave en la investigación y 
 En este modelo se hans eleccionado las anteriores columnas y se han añadido las de 'longitude' y 'latitude', que van a ser las columnas a predecir.
 
 ### Modelo ML
-Para esta prediccion se ha utilizado RandomForestRegressor utilizando GridSearchCV para evaluar diferentes parametros.
-R2 media 0.86
-R2 longitud 0.75
-MSE longitud 2475.84
-R2 latitud 0.97
-MSE latitud 51.41
+Para esta prediccion se ha utilizado RandomForestRegressor utilizando GridSearchCV para evaluar diferentes parametros.\
+R2 media 0.86\
+R2 longitud 0.75\
+MSE longitud 2475.84\
+R2 latitud 0.97\
+MSE latitud 51.41\
 
 ## Conclusiones
 El modelo de prediccion de co2 es bastente preciso y el modelo de predicción de los puntos de muestreo hace falta pulirlo más, ya que hay bastabte fallo.
