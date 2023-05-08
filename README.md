@@ -56,7 +56,7 @@ R2 media 0.86\
 R2 longitud 0.75\
 MSE longitud 2475.84\
 R2 latitud 0.97\
-MSE latitud 51.41\
+MSE latitud 51.41
 
 ## Conclusiones
 El modelo de prediccion de co2 es bastente preciso y el modelo de predicción de los puntos de muestreo hace falta pulirlo más, ya que hay bastabte fallo.
