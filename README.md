@@ -10,6 +10,8 @@ El dataset consta de 101 columnas y 15260 filas,, incluyendo mediciones en el At
 Este dataset es una herramienta útil para la investigación y el análisis de la dinámica oceánica y la química del agua de mar en diferentes regiones y profundidades del océano. Además, puede ser utilizado en la construcción de modelos y simulaciones para entender mejor el impacto del cambio climático en el océano y en el planeta en general.
 
 ## Predicción de CO2 
+La concentración de CO2 total en el agua del océano es importante para comprender el ciclo del carbono en el océano y cómo afecta al clima global. Los estudios oceanográficos pueden medir la concentración de CO2 total en diferentes ubicaciones geográficas y profundidades en el océano para comprender cómo varía a lo largo del tiempo y el espacio. Esta información es útil para modelar el ciclo del carbono en el océano y para predecir cómo puede cambiar en el futuro debido al aumento de la concentración de CO2 en la atmósfera.
+
 ### Selección de columnas
     • "tco2" concentración de CO2 total en el agua del océano. Este va a ser el dato a predecir
     • "phosphate": los niveles de fosfato en el agua pueden ser un factor importante en la proliferación de algas.
